@@ -1,6 +1,10 @@
 # distance-midi-controller
 **A high-precision, low-latency MIDI controller that turns hand and body gestures into expressive musical control, using a VL53L0X ToF distance sensor in a 3D-printed case mountable on any microphone stand: open-source and ready to be modified and hacked.**
 
+![front view of the controller mounted onto a mic stand](controller_front.JPG)
+
+![rear view of the controller showing the wiring](controller_back.JPG)
+
 ## Features
 - **Hands-Free Control:** Modulate MIDI parameters gesturally
 - **High Precision & Low Latency:** Utilizes the VL53L0X Time of Flight (ToF) sensor with optimised readout for gestural control and fine-tuned balance between latency and acuracy.
