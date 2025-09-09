@@ -38,6 +38,8 @@ The STL file for the enclosure is included in this repo.
 - **Layer Height:** 0.12mm. This provides a precise cutout for the microcontroller slot, allowing the Arduino to be press-fit and held in place by friction.
 - **Enable Supports** for the overhang in the microcrontroller-slot, the pin-cutout and screwholes.
 
+![view of the enclosure sliced in the prusa slicer](tof_sensor_sliced.png)
+
 ## Assembly
 1. **Prepare VL53L0X board:** Solder 4 short wires onto pins VCC, GND, SCL & SDA
 2. **Mount VL53L0X board onto enclosure** using the M3 screws and nuts
